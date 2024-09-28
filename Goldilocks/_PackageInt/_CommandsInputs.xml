@@ -1,0 +1,53 @@
+<CommandsInputs>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageSources\Missions\goldilocks-test\Images\rewardscreen.jpg" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="GoldilocksTest"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageSources\Missions\goldilocks-test\Images\SimpleMission_Loading.png" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="GoldilocksTest"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageSources\Missions\goldilocks-test\GoldilocksTest.PLN" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="GoldilocksTest"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageSources\Missions\goldilocks-test\GoldilocksTest_edition.xml" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="GoldilocksTest"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageSources\Missions\goldilocks-test\GoldilocksTest.FLT" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="GoldilocksTest"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageSources\Missions\goldilocks-test\Images\Activity_Widget.jpg" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="GoldilocksTest"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageSources\Missions\goldilocks-test\Images\SimpleMission_Briefing.png" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="GoldilocksTest"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageSources\Missions\goldilocks-test\GoldilocksTest.xml" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="GoldilocksTest"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageSources\Missions\goldilocks-test\Goldilocks.WPR" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="GoldilocksTest"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\el_za\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Goldilocks\PackageDefinitions\zak-goldilocks-test\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="zak-goldilocks-test" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

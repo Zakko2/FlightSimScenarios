@@ -1,0 +1,10 @@
+{
+  "package-name": "zak-goldilocks-test",
+  "items": [
+    {
+      "type": "FreeFlight",
+      "content": "GoldilocksTest.FLT",
+      "revision": 1
+    }
+  ]
+}

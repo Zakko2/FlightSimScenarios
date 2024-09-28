@@ -1,0 +1,59 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/zak-goldilocks-test/ContentHistory.json",
+      "size": 160,
+      "date": 133719712152162180
+    },
+    {
+      "path": "ContentInfo/zak-goldilocks-test/Thumbnail.jpg",
+      "size": 5446,
+      "date": 133719669483429991
+    },
+    {
+      "path": "Missions/GoldilocksTest/Goldilocks.WPR",
+      "size": 3276,
+      "date": 133719637699675206
+    },
+    {
+      "path": "Missions/GoldilocksTest/GoldilocksTest.FLT",
+      "size": 11998,
+      "date": 133719700147877118
+    },
+    {
+      "path": "Missions/GoldilocksTest/GoldilocksTest.PLN",
+      "size": 2133,
+      "date": 133719700860076107
+    },
+    {
+      "path": "Missions/GoldilocksTest/GoldilocksTest.spb",
+      "size": 4923,
+      "date": 133719712151939641
+    },
+    {
+      "path": "Missions/GoldilocksTest/GoldilocksTest_edition.spb",
+      "size": 1428,
+      "date": 133719712151814423
+    },
+    {
+      "path": "Missions/GoldilocksTest/Images/Activity_Widget.jpg",
+      "size": 81649,
+      "date": 133719669487230040
+    },
+    {
+      "path": "Missions/GoldilocksTest/Images/rewardscreen.jpg",
+      "size": 801512,
+      "date": 133719669487501129
+    },
+    {
+      "path": "Missions/GoldilocksTest/Images/SimpleMission_Briefing.png",
+      "size": 91116,
+      "date": 133719669487741637
+    },
+    {
+      "path": "Missions/GoldilocksTest/Images/SimpleMission_Loading.png",
+      "size": 82099,
+      "date": 133719669487962068
+    }
+  ]
+}

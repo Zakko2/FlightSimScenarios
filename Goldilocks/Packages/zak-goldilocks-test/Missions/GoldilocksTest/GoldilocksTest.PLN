@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Goldilocks</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3500.000</CruisingAlt>
+        <DepartureID>KEMT</DepartureID>
+        <DepartureLLA>N34° 5' 9.03",W118° 2' 4.24",+000288.50</DepartureLLA>
+        <DestinationID>KAVX</DestinationID>
+        <DestinationLLA>N33° 24' 17.99",W118° 24' 56.77",+001550.00</DestinationLLA>
+        <Descr>Emergency flight to Catalina Island</Descr>
+        <DeparturePosition>19</DeparturePosition>
+        <DepartureName>San Gabriel Valley</DepartureName>
+        <DestinationName>Catalina</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KEMT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 5' 9.03",W118° 2' 4.24",+000288.50</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KEMT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 47' 0.25",W118° 12' 16.92",+004300.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N33° 40' 41.40",W118° 15' 48.99",+004300.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="KAVX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 24' 17.99",W118° 24' 56.77",+001550.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KAVX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
